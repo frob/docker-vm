@@ -1,6 +1,10 @@
+# Ignore everything
 *
 .
-!.gitignore
-!VagrantFile
-!config.yml
 
+# Add select files that are important
+!.gitignore
+!Vagrantfile
+!config.yml
+!provisioning/playbook.yml
+!docs/*
