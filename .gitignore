@@ -1,0 +1,6 @@
+*
+.
+!.gitignore
+!VagrantFile
+!config.yml
+
