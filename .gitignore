@@ -4,6 +4,7 @@
 
 # Add select files that are important
 !.gitignore
+!README.md
 !Vagrantfile
 !config.yml
 !provisioning/playbook.yml
